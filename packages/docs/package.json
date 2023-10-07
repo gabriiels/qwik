@@ -39,7 +39,7 @@
     "fflate": "0.7.4",
     "gray-matter": "4.0.3",
     "mdast": "^3.0.0",
-    "postcss": "8.4.23",
+    "postcss": "8.4.31",
     "prism-themes": "1.9.0",
     "prismjs": "1.29.0",
     "puppeteer": "^19.9.1",
